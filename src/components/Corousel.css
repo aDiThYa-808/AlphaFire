@@ -1,0 +1,21 @@
+.carousel-container{
+    margin-top: 70px;
+}
+
+
+.c-caption{
+    border-radius: 2px;
+    font-size: larger;
+    background-color: rgb(0 0 0 / 40%);
+        
+}
+
+.c-text{
+    font-size: 1.5rem;
+}
+
+.carousel-caption{
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin-top:100px
+}
