@@ -37,7 +37,7 @@ export default function Navbar() {
             </li>
           </ul>
           
-          <a href="#footer" className="btn btn-primary">Contact Us</a>
+          <a href="#footer" className="btn btn-primary btn-dark">Contact Us</a>
         </div>
       </div>
     </nav>

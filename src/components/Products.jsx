@@ -37,7 +37,7 @@ export default function Products() {
                   <a 
                     href={product.pdf}
                     download
-                    className="btn btn-primary"
+                    className="btn btn-primary btn-dark"
                   >
                     Learn more
                   </a>
