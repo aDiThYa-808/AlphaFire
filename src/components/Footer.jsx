@@ -17,11 +17,16 @@ export default function Footer() {
           </div>
           <div className="text-muted text-center text-md-start mb-4 mb-md-0" style={{ maxWidth: "350px" }}>
             
-            <div className="text-light h6 text-center">#No.726/3 Gopal Reddy Building, R.M Nagar, Main Road, Dodda Banaswadi, Bangalore-560043</div>
+            <div className="text-light h6 text-center">
+            <div className="text-decoration-none text-light h5">Bengaluru Branch</div>
+              #No.726/3 Gopal Reddy Building, R.M Nagar, Main Road, Dodda Banaswadi, Bangalore-560043</div>
           </div>
-          <div className="text-light h6 text-center">#No. 2-2-131/9/1,Dharmareddy Colony,Macha-Bollarum,Telangana-500010</div>
+          <div className="text-light h6 text-center">
+            <div className="text-decoration-none text-light h5">Hyderabad Branch</div>
+            #No. 2-2-131/9/1,Dharmareddy Colony,Macha-Bollarum,Telangana-500010
+          </div>
           <div className="text-muted text-center text-md-start mb-4 mb-md-0">
-            <div className="text-decoration-none text-light h4">
+            <div className="text-decoration-none text-light h5">
               Contact Us
             </div>
             <div>
@@ -32,6 +37,16 @@ export default function Footer() {
               <div>
               <a href="tel:+919686343807" className="text-decoration-none text-light h6">
                 +91 9868343807
+              </a>
+            </div>
+            <div>
+              <a href="tel:+919966926767" className="text-decoration-none text-light h6">
+              +91 9966926767
+              </a>
+            </div>
+            <div>
+              <a href="tel:+914031655068" className="text-decoration-none text-light h6">
+              +91 4031655068
               </a>
             </div>
             <div>
